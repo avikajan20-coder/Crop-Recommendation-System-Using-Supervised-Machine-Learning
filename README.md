@@ -41,8 +41,5 @@ The dataset contains parameters such as:
 - Model evaluation
 - Crop prediction
 
-## 📷 Screenshots
-(Add screenshots of your project here.)
-
 ## 👩‍💻 Author
 **Avika Soni**
